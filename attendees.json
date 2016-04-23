@@ -6,5 +6,9 @@ var attendees = [
     {
         "name": "Madhuri Yechuri",
         "username": "myechuri"
+    },
+    {
+    	"name": "Pankti Majmudar",
+	"username": "pankti-m"
     }
 ];
