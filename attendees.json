@@ -7,4 +7,11 @@ var attendees = [
         "name": "Madhuri Yechuri",
         "username": "myechuri"
     }
+
+   {
+        "name": "Madura Marathe",
+        "username": "maduramarathe9"
+    }
+
+
 ];
