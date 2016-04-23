@@ -28,4 +28,8 @@ var attendees = [
         "username": "poozza",
         "handle":"WE ARE HIRING AT VMWARE NSX AND WE CONTRIBUTE TO OPEN SOURCE TOO"	
     }
+    {
+        "name": "Lipsa Rout",
+        "username": "Lipsa"
+    }
 ];
