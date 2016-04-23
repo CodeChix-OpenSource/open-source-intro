@@ -8,7 +8,11 @@ var attendees = [
         "username": "myechuri"
     },
     {
-	"name": "Samina Qazi",
-	"username": "saminasikander123"
-    }	
+        "name": "Samina Qazi",
+        "username": "saminasikander123"
+    },
+    {
+        "name": "Chelsea Mafrica",
+        "username": "cmafrica"
+    }
 ];
