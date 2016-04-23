@@ -47,5 +47,9 @@ var attendees = [
     {
         "name": "Sandhya Pai",
         "username": "sandhyapi"
+    },
+    {
+        "name": "Pat Richards",
+        "username": "par2015"
     }
 ];
