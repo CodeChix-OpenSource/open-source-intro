@@ -39,12 +39,9 @@ var attendees = [
     {
         "name": "Pratibha Shinde",
         "username": "spratibha"
-    }
-
-   {
+    },
+    {
         "name": "Madura Marathe",
         "username": "maduramarathe9"
     }
-
-
 ];
