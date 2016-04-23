@@ -14,5 +14,9 @@ var attendees = [
     {
         "name": "Chelsea Mafrica",
         "username": "cmafrica"
+    },
+    {
+        "name": "Bonnie Sarmiento",
+        "username": "bonnieh4x"
     }
 ];
